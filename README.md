@@ -1,2 +1,2 @@
-# DL-final-project
-deep learning final group project 
+# cs74643-project
+cs7643 group project
